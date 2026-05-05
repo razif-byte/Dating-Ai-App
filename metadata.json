@@ -1,0 +1,6 @@
+{
+  "name": "Dating AI Assistant",
+  "description": "A sophisticated dating application featuring real-time AI sentiment analysis, smart chat matching, and a modern, polished interface.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
